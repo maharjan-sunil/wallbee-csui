@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wallbee-csui/static/css/main.89b46129.chunk.css",
+    "main.js": "/wallbee-csui/static/js/main.ec1b764f.chunk.js",
+    "main.js.map": "/wallbee-csui/static/js/main.ec1b764f.chunk.js.map",
+    "runtime-main.js": "/wallbee-csui/static/js/runtime-main.77199d01.js",
+    "runtime-main.js.map": "/wallbee-csui/static/js/runtime-main.77199d01.js.map",
+    "static/js/2.ad6f5386.chunk.js": "/wallbee-csui/static/js/2.ad6f5386.chunk.js",
+    "static/js/2.ad6f5386.chunk.js.map": "/wallbee-csui/static/js/2.ad6f5386.chunk.js.map",
+    "index.html": "/wallbee-csui/index.html",
+    "precache-manifest.16582529ef9f2031c07fcc37031e836d.js": "/wallbee-csui/precache-manifest.16582529ef9f2031c07fcc37031e836d.js",
+    "service-worker.js": "/wallbee-csui/service-worker.js",
+    "static/css/main.89b46129.chunk.css.map": "/wallbee-csui/static/css/main.89b46129.chunk.css.map",
+    "static/js/2.ad6f5386.chunk.js.LICENSE.txt": "/wallbee-csui/static/js/2.ad6f5386.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77199d01.js",
+    "static/js/2.ad6f5386.chunk.js",
+    "static/css/main.89b46129.chunk.css",
+    "static/js/main.ec1b764f.chunk.js"
+  ]
+}
